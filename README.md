@@ -1,1 +1,0 @@
-# auto_ui_test
