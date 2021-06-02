@@ -1,0 +1,8 @@
+搜索框: "id==kw"
+#data
+候选: "css==.bdsug-overflow"
+#css selector
+搜索候选: "css==#form > div"
+搜索按钮: "id==su"
+
+#form div li
